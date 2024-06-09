@@ -1,0 +1,28 @@
+﻿  Cube.cpp
+  main.cpp
+  Matrix.cpp
+E:\VS\finalWork\Vector.h(14,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(15,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(16,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(66,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(66,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(67,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(67,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(73,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(73,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(74,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(74,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(80,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(80,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(81,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\VS\finalWork\Matrix.cpp(81,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Point.cpp
+E:\VS\finalWork\Vector.h(14,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(15,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(16,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Verctor.cpp
+E:\VS\finalWork\Vector.h(14,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(15,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VS\finalWork\Vector.h(16,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
